@@ -1,4 +1,4 @@
-# :ice_cube: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
+# :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
 
@@ -18,7 +18,9 @@
 | [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=83e066&logo=GNU-Bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)                                                          | [![fakesigner](https://img.shields.io/static/v1?label=fakesigner&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ZanzyTHEbar/fakesigner) [![iInfo](https://img.shields.io/static/v1?label=iInfo&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ZanzyTHEbar/iInfo) [![app-packager](https://img.shields.io/static/v1?label=app-packager&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ZanzyTHEbar/app-packager) |
 | [![Processing](https://img.shields.io/static/v1?label=&message=Processing&color=0097d8&logo=java&logoColor=FFFFFF)](https://processing.org/)                                                             | [![PixelSorter](https://img.shields.io/static/v1?label=PixelSorter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ZanzyTHEbar/PixelSorter) [![NovationLaunchKeyLights](https://img.shields.io/static/v1?label=NovationLaunchKeyLights&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ZanzyTHEbar/NovationLaunchKeyLights)                                                                                                                           |
  -->
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+
+<!-- END OF PROFILE STACK, DO NOT REMOVE - Credit to user @basti564 for the design inspirations -->
 
 # :orange_book: Top Languages
 
