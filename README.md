@@ -1,5 +1,5 @@
 <div align = center>
- <h2>Hello! I am ZanzyTHEbar <img src = "https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width=150 height=80></h2>
+ <h2>Hello! I am ZanzyTHEbar <img src = "https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width=200 height=90></h2>
  <p><i><b>~A Curiosity Rover on Earth</b></i></p>
 </div>
 
