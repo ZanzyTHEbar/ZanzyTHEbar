@@ -1,20 +1,3 @@
-<div align = center>
- <h2>Hello! I am ZanzyTHEbar <img src = "https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width=200 height=90></h2>
- <p><i><b>~A Curiosity Rover on Earth</b></i></p>
-</div>
-
-<div>
- <h3>About Me!</h3>
- <ul>
-  <li> :man_technologist: Currently a Wolfram Science Intern in the Technical Project Administration department as a consultant.</li>
-  <li> :bulb:  A Junior pursuing Electrical and Electronics Engineering</li>
-  <li> :book: I love revolving myself around the language of Universe ➡ Mathematics.</b></li>
-  <li> :national_park: The World has been poorly built, I look forward bringing solutions inspired from the Nature.</li>
-  <li> :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.</li>
-  <li> :musical_note: And yeah apart from these, I do a bit dancing as well. All I need is some good music recommendations.</li>
- </ul>
-</div>
-
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
