@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/header.svg">
-		<img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/header.svg" width="800" height="400" alt="Fancy Github Animations">
+		<img src="header.svg" width="800" height="400" alt="Welcome to my Github!">
 	</a>
 	<br>
 </div>
