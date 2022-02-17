@@ -1,7 +1,3 @@
-# :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
-
 <div align="center">
 	<br>
 	<a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
@@ -11,6 +7,10 @@
 </div>
 
 <br>
+
+# :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
 
 ## :computer: My Projects
 
