@@ -44,7 +44,7 @@
 </p>
 <br>
 
-:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord)
+:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <h3><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/2f02679c4162c9c9d27a28a800c5e69a.svg"></h3>
 
 <br>
 
