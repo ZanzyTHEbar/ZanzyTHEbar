@@ -40,7 +40,7 @@
 </div>
 <h2>Would you like to contact me ?</h2>
 <p>Hey! <b><i>Think we share any common interests?</i></b> Let's hop on discord (below) and talk about things!</p>
-<p><a href="https://discord.com/channels/851844112113467412/868237793774698606"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<p><a href="https://discord.gg/Bz52xHvZ3c"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <br>
 
