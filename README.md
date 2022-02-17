@@ -12,7 +12,7 @@
 
 <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/giphy.gif" width="150" height="85" alt="Arduino Mobius Loop"></p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
+<br>
 
 <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width="150" height="85" alt="Arduino Mobius Loop"></p>
 
@@ -53,3 +53,5 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZanzyTHEbar&color=grey)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
