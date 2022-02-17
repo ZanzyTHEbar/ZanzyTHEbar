@@ -10,26 +10,6 @@
 
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
-<div align="center">
- <br>
- <a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/giphy.gif">
-  <img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/giphy.gif" width="150" height="85" alt="Arduino Mobius Loop">
- </a>
- <br>
-</div>
-
-<br>
-
-<div align="center">
- <br>
- <a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif">
-  <img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width="150" height="85" alt="Arduino Mobius Loop">
- </a>
- <br>
-</div>
-
-<br>
-
 ## :computer: My Projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
