@@ -3,6 +3,7 @@
 	<a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
 		<img src="header.svg" width="800" height="400" alt="Welcome to my Github!">
 	</a>
+    <h2><img src = "https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/giphy.gif" width=150 height=80></h2>
 	<br>
 </div>
 
