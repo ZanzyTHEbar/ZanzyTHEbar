@@ -45,7 +45,7 @@
 <br>
 
 :star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/2f02679c4162c9c9d27a28a800c5e69a.svg" width="150" height="80" alt="Wizard Emoji"></p>
-<p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width="150" height="80" alt="Arduino Mobius Loop"></p>
+<p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width="150" height="85" alt="Arduino Mobius Loop"></p>
 
 <br>
 
