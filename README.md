@@ -37,4 +37,12 @@
 
 [![ZanzyTHEbar's Github Stats](https://github-readme-stats.vercel.app/api?username=ZanzyTHEbar&show_icons=true&theme=radical)](https://github.com/ZanzyTHEbar)
 
+</div>
+<h2>Would you like to contact me ?</h2>
+<p>Hey! <b><i>Think we share any common interests?</i></b>, let's hop on discord (below) and talk about things!</p>
+<p><a href="https://discord.com/channels/851844112113467412/868237793774698606"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+<br>
+:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ZanzyTHEbar&color=grey)
