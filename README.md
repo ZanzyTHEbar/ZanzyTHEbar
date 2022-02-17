@@ -10,11 +10,13 @@
 
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
+<p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/giphy.gif" width="150" height="85" alt="Arduino Mobius Loop"></p>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
 
 <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/919725660790980708.gif" width="150" height="85" alt="Arduino Mobius Loop"></p>
 
-## :computer: My Projects 
+## :computer: My Projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
