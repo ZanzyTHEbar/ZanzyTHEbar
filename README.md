@@ -52,6 +52,7 @@
 
 <br>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ZanzyTHEbar&color=grey)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
