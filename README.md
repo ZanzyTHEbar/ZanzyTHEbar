@@ -44,7 +44,7 @@
 </p>
 <br>
 
-:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/2f02679c4162c9c9d27a28a800c5e69a.svg"></p>
+:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/2f02679c4162c9c9d27a28a800c5e69a.svg" width="150" height="80" alt="Wizard Emoji"></p>
 
 <br>
 
