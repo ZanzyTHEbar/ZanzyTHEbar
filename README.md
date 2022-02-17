@@ -43,6 +43,9 @@
 <p><a href="https://discord.com/channels/851844112113467412/868237793774698606"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <br>
+
 :star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord)
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZanzyTHEbar&color=grey)
