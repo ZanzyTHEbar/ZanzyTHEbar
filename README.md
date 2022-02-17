@@ -1,9 +1,9 @@
 <div align="center">
-	<br>
-	<a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Welcome to my Github!">
-	</a>
-	<br>
+ <br>
+ <a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
+  <img src="header.svg" width="800" height="400" alt="Welcome to my Github!">
+ </a>
+ <br>
 </div>
 
 <br>
