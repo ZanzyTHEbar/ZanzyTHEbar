@@ -1,19 +1,15 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg
+  fill="none"
+  viewBox="0 0 800 400"
+  width="800"
+  height="400"
+  xmlns="http://www.w3.org/2000/svg"
+>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(360deg);
-					}
-					100% {
-					25% {
-						transform: rotate(10deg);
-					}
-					50% {
-						transform: rotate(-10deg);
-					}
-					75% {
 						transform: rotate(3deg);
 					}
 					100% {
@@ -90,7 +86,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Welcome to my Github &amp; Enjoy<br/> your stay!</h1>
+				<h1>Welcome to my Github &amp; Enjoy<br /> your stay!</h1>
 				<p>I do not bite 😜</p>
 			</div>
 		</div>
