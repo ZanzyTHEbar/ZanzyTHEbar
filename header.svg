@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(10deg);
+						transform: rotate(180deg);
 					}
 					100% {
-						transform: rotate(-10deg);
+						transform: rotate(-180deg);
 					}
 				}
 				@keyframes gradientBackground {
