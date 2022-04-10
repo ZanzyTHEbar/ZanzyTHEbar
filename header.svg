@@ -1,23 +1,28 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg
+  fill="none"
+  viewBox="0 0 800 400"
+  width="800"
+  height="400"
+  xmlns="http://www.w3.org/2000/svg"
+>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(360deg);
-					}
-					25% {
-						transform: rotate(10deg);
-					}
-					50% {
-						transform: rotate(-10deg);
-					}
-					75% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
+				@keyframes spin {
+					0% { transform: rotate(360deg); }
+					100% { transform: rotate(0deg); }
+				}
+				@-moz-keyframes spin {
+					0% { -moz-transform: rotate(360deg); }
+					100% { -moz-transform: rotate(0deg); }
+				}
+				@-webkit-keyframes spin {
+					0% {-webkit-transform: rotate(360deg); }
+					100% { -webkit-transform: rotate(0deg); }
+				}
+				@-o-keyframes spin {
+					0% { -o-transform: rotate(360deg); }
+					100% { -o-transform: rotate(0deg); }
 				}
 				@keyframes gradientBackground {
 					0% {
@@ -68,6 +73,19 @@
 					border-radius: 10px;
 					color: white;
 					text-align: center;
+					-moz-animation: gradientBackground 10s ease infinite;
+					-webkit-animation: gradientBackground 10s ease infinite;
+					-0-animation: gradientBackground 10s ease infinite;
+				}
+				.spin {
+					animation: spin 2s linear 0s infinite reverse;
+					-moz-animation: 2s linear 0s reverse none infinite spin;
+					-webkit-animation: spin 2s linear 0s infinite reverse;
+					-0-animation: spin 2s linear 0s infinite reverse;
+					-webkit-animation-play-state: paused;
+					-o-animation-play-state: paused;
+					-moz-animation-play-state: paused;
+					animation-play-state: paused;
 				}
 				h1 {
 					font-size: 50px;
@@ -82,15 +100,23 @@
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
+				.spin:hover {
+					-webkit-animation-play-state: running;
+					-o-animation-play-state: running;
+					-moz-animation-play-state: running;
+					-webkit-animation-play-state: running;
+				}
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<div class="container">
-				<h1>Welcome to my Github &amp; Enjoy<br/> your stay!</h1>
-				<p>I do not bite 😜</p>
+			<div class"spin">
+				<div class="container">
+					<h1>Welcome to my Github &amp; Enjoy<br /> your stay!</h1>
+					<p>I do not bite 😜</p>
+				</div>
 			</div>
 		</div>
 	</foreignObject>
