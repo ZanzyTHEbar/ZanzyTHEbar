@@ -12,7 +12,10 @@
 				}
 				@keyframes gradientBackground {
 					0% {
-						background-position: 0% 50%;
+						background-position: 0% 25%;
+					}
+					25% {
+						background-position 25% 50%; 
 					}
 					50% {
 						background-position: 100% 50%;
