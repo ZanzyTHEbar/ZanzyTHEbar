@@ -42,7 +42,7 @@ int main(void){
 }
 ```
 
-`$ Hello there! Welcome to my github!`
+`pi@DRAGON~$ Hello there! Welcome to my github!`
 
 ## 📊GitHub Stats📊
 
