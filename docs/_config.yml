@@ -19,4 +19,4 @@ buttons:
       tar_url: http://example.com/
       tar_title: Title
       tar_hide: true
-      github_hide: true # hides "View on Github"
+      github_hide: false # hides "View on Github"
