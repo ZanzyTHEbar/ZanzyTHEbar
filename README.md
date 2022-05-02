@@ -36,7 +36,7 @@
 ```C++
 #include <iostream>
 
-int main(void){
+int main(){
     std::cout << "Hello there! Welcome to my github!" << endl;
     return 0;
 }
