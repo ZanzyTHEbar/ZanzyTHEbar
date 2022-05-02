@@ -1,7 +1,5 @@
 remote_theme: tuur29/pages-themes-cayman
 title: ZanzyTHEbar
-description: Welcome to my github :)
-
 show_downloads: false
 darkmode: true
 hide_first_title: true # Useful if README.md is used on both github and pages
