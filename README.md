@@ -5,12 +5,12 @@
  </a>
  <br>
 </div>
-
 <br>
 
-# :man_technologist: 
 
-[ZanzyTHEbar](https://ZanzyTHEbar.github.io)
+
+
+# :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
 ## :computer: My Projects
 
