@@ -8,7 +8,7 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+full+stack+developer;I+have+a+passion+for+embedded+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+full+stack+developer;I+have+a+passion+for+embedded+systems;)](https://git.io/typing-svg)
 
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
