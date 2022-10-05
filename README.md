@@ -8,7 +8,7 @@
 <br>
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+full+stack+developer;I+have+a+passion+for+low-level+languages+and+embedded+systems)](https://git.io/typing-svg)
 
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
@@ -50,9 +50,9 @@ int main(void){
 
 ## :orange_book: Top Languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ZanzyTHEbar&theme=highcontrast&hide_border=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
 
