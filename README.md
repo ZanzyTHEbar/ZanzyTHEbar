@@ -13,6 +13,8 @@
 # :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-%2300599C.svg?style=plastic&logo=go&logoColor=white)
+![Cpp](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
 
 ```C++
 #include <iostream>
