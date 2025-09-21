@@ -43,7 +43,7 @@ int main(void){
 
 Hey! ***Think we share any common interests?*** Let's hop on discord (below) and talk about things!
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Bz52xHvZ3c)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 :star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/wizard.svg" width="150" height="80" alt="Wizard Emoji"></p>
 
