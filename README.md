@@ -10,13 +10,13 @@
 
 **Senior Platform Engineer | Embedded Systems & Agentic AI Infrastructure**
 
-*Portugal (open to relocation)* • [LinkedIn](https://www.linkedin.com/in/zacariahheim) • [X](https://x.com/ZacariahHeim) • [ORCID](https://orcid.org/0009-0000-3135-7246) • [Personal Site](https://ZanzyTHEbar.github.io)
+*Portugal (open to relocation)* • [LinkedIn](https://www.linkedin.com/in/zacariahheim) • [X](https://x.com/ZacariahHeim)
 
 ---
 
 ## About
 
-Self-taught Senior Platform Engineer with 9+ years building reliable systems across embedded hardware, distributed platforms, and modern agentic AI infrastructure. Currently at Avular, where I own internal tooling, platform foundations, and collaborate on UAV/battery firmware with electrical engineering teams. Former CTO & co-founder of a deep-tech energy storage startup (Prometheon Technologies) with multiple patents in proton battery systems.
+Self-taught Senior Platform Engineer with 9+ years building reliable systems across embedded hardware, distributed platforms, and modern agentic AI infrastructure. Former CTO & co-founder of a deep-tech energy storage startup (Prometheon Technologies) with multiple patents in proton battery systems.
 
 I specialize in designing and shipping production-grade components that span constraints: resource-efficient embedded libraries, high-performance Go systems, and secure, memory-aware agent runtimes. I care about first-principles architecture, clean abstractions, observability, and building things that actually work in the real world.
 
@@ -55,7 +55,7 @@ Built and actively maintain a modular, production-adopted library providing Wi-F
 
 ## Experience Snapshot
 
-- **Senior Platform Engineer @ Avular** (current) — Internal platform tooling, CI/CD ownership, Proxmox/virtualization, and cross-functional firmware collaboration on UAV/battery systems.
+- **Senior Platform Engineer** — Ownership of internal platform tooling, CI/CD, virtualization infrastructure, and cross-functional embedded firmware collaboration.
 - **CTO & Co-founder @ Prometheon Technologies** (2019–2025) — Led deep-tech energy storage development (proton batteries). Multiple patents (WO2023166219A1, WO2024184244A1). Full-stack hardware/software systems in a startup environment.
 - Prior experience includes roles at Gitpod and Emissium Labs, plus extensive open-source building.
 
