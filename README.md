@@ -1,56 +1,88 @@
 <div align="center">
  <br>
  <a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
-  <img src="header.svg" width="800" height="400" alt="Welcome to my Github!">
+  <img src="header.svg" width="800" height="300" alt="Zacariah Heim — Senior Platform Engineer">
  </a>
  <br>
 </div>
-<br>
 
+# Zacariah Heim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+full+stack+developer;My+passion+is+embedded+systems;)](https://git.io/typing-svg)
+**Senior Platform Engineer | Embedded Systems & Agentic AI Infrastructure**
 
-# :man_technologist: [ZanzyTHEbar](https://ZanzyTHEbar.github.io)
+*Portugal (open to relocation)* • [LinkedIn](https://www.linkedin.com/in/zacariahheim) • [X](https://x.com/ZacariahHeim) • [ORCID](https://orcid.org/0009-0000-3135-7246) • [Personal Site](https://ZanzyTHEbar.github.io)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-%2300599C.svg?style=plastic&logo=go&logoColor=white)
-![Cpp](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
+---
 
-```C++
-#include <iostream>
+## About
 
-int main(void){
-    std::cout << "Hello there! Welcome to my github!" << endl;
-    return 0;
-}
-```
+Self-taught Senior Platform Engineer with 9+ years building reliable systems across embedded hardware, distributed platforms, and modern agentic AI infrastructure. Currently at Avular, where I own internal tooling, platform foundations, and collaborate on UAV/battery firmware with electrical engineering teams. Former CTO & co-founder of a deep-tech energy storage startup (Prometheon Technologies) with multiple patents in proton battery systems.
 
-`pi@DRAGON~$ Hello there! Welcome to my github!`
+I specialize in designing and shipping production-grade components that span constraints: resource-efficient embedded libraries, high-performance Go systems, and secure, memory-aware agent runtimes. I care about first-principles architecture, clean abstractions, observability, and building things that actually work in the real world.
 
-## 📊GitHub Stats📊
+---
 
-## :orange_book: Top Languages
+## Core Competencies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ZanzyTHEbar&theme=highcontrast&hide_border=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanzyTHEbar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Embedded & IoT Systems**  
+C/C++, ESP32/Arduino, firmware development, networking stacks, OTA, sensor integration, reusable hardware abstraction libraries.
 
-## 🏆GitHub Trophies
+**Platform & Systems Engineering**  
+Go (systems, CLIs, backends), Linux (self-hosting, desktop infra, reproducibility), CI/CD, developer tooling, distributed systems patterns.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZanzyTHEbar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+**Agentic AI Infrastructure**  
+MCP ecosystem, custom agent runtimes, tiered/persistent memory systems, capability-based security, context management, local-first & edge deployment.
 
-### Would you like to contact me?
+**Additional**  
+Performance optimization, security boundaries, modular library design, documentation & production practices (ADRs, codegen, testing, CI).
 
-Hey! ***Think we share any common interests?*** Let's hop on discord (below) and talk about things!
+---
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+## Featured Impact Projects
 
-:star: ZanzyTHEbar / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/imgs/wizard.svg" width="150" height="80" alt="Wizard Emoji"></p>
+**[DragonScale](https://github.com/ZanzyTHEbar/dragonscale)** — *Compact, secure AI agent runtime for Linux and embedded*  
+Architected a production-oriented agent platform with capability-based tool isolation (SecureBus), DAG-parallel execution, MemGPT-style multi-tier memory with semantic projection, libSQL vector + FTS search, encrypted secrets, and multi-channel support. Single-binary, low-footprint design with strong engineering practices (ADRs, code generation, evaluation harness, CI). Focused on reliability and real deployment constraints.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zacariahheim)
+**[mcp-memory-libsql-go](https://github.com/ZanzyTHEbar/mcp-memory-libsql-go)** — *High-performance persistent memory server for the Model Context Protocol*  
+Delivered a full Go implementation (with major enhancements) of an MCP memory backend featuring vector search, hybrid semantic + full-text retrieval, knowledge graphs, multi-project isolation, and embeddability as a library. Achieved **2× performance** and **40% lower memory footprint** versus the original TypeScript version through native execution and efficient driver usage. Includes metrics, fuzzing, and structured internals.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZanzyTHEbar&color=grey)
+**[EasyNetworkManager](https://github.com/ZanzyTHEbar/EasyNetworkManager)** — *Reusable networking library for ESP32/ESP8266*  
+Built and actively maintain a modular, production-adopted library providing Wi-Fi management (auto-connect + AP fallback), OTA (standard + async), mDNS, async REST/JSON API + WebSockets, and extensible configuration. Clean class design with extension points. Adopted in the open-source EyeTrackVR/OpenIris VR eye-tracking platform.
 
-### ✍️Random Dev Quote
+**Other notable work**: Geometric/point-cloud IMU drift correction (`circlejerk`), opinionated reproducible Linux desktop environments, GNOME workflow extensions, and various systems tooling.
 
-![Random Quotez](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+## Experience Snapshot
+
+- **Senior Platform Engineer @ Avular** (current) — Internal platform tooling, CI/CD ownership, Proxmox/virtualization, and cross-functional firmware collaboration on UAV/battery systems.
+- **CTO & Co-founder @ Prometheon Technologies** (2019–2025) — Led deep-tech energy storage development (proton batteries). Multiple patents (WO2023166219A1, WO2024184244A1). Full-stack hardware/software systems in a startup environment.
+- Prior experience includes roles at Gitpod and Emissium Labs, plus extensive open-source building.
+
+Full details on [LinkedIn](https://www.linkedin.com/in/zacariahheim).
+
+---
+
+## Currently Building
+
+- Advancing **DragonScale** — pushing the agent runtime toward more robust multi-agent coordination, skill graphs, and secure local deployment.
+- Exploring practical applications of persistent semantic memory and MCP tooling for reliable agentic systems.
+- Building tools and infrastructure that improve developer velocity and system reliability (self-hosting, automation, workflow).
+
+---
+
+## Let's Connect
+
+I'm always interested in thoughtful conversations about platform engineering, embedded systems, agentic infrastructure, or deep-tech hardware/software co-design.
+
+**Open to senior opportunities** in platform engineering, embedded/firmware systems, or AI infrastructure roles (Portugal base with flexibility for the right fit).
+
+- Discord: `ZanzyTHEbar` / `DaOfficialWizard#2377`
+- Email: zacariahheim@gmail.com
+- X: [@ZacariahHeim](https://x.com/ZacariahHeim)
+
+---
+
+<div align="center">
+  <sub>Self-taught • Builder • Systems thinker • Evidence over hype</sub>
+</div>
