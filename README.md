@@ -1,63 +1,49 @@
 <div align="center">
  <br>
  <a href="https://github.com/ZanzyTHEbar/ZanzyTHEbar/blob/main/header.svg">
-  <img src="header.svg" width="800" height="300" alt="Zacariah Heim - Senior Platform Engineer">
+  <img src="header.svg" width="800" height="300" alt="Zacariah Heim - Software & Platform Engineer">
  </a>
  <br>
 </div>
 
 # Zacariah Heim
 
-**Platform Engineer | Embedded Systems | Backend**
+**Software & Platform Engineer**
 
-*US Citizen in Portugal (open to relocation)* • [LinkedIn](https://www.linkedin.com/in/zacariahheim) • [X](https://x.com/ZacariahHeim)
+Backend · Linux · Embedded Systems · Distributed Systems
+
+[LinkedIn](https://www.linkedin.com/in/zacariahheim) · [X](https://x.com/ZacariahHeim) · [Portfolio](https://portfolio.zacariahheim.com)
 
 ---
 
 ## About
 
-Backend and Platform Engineer with 10 years building reliable systems across embedded hardware, distributed platforms, and modern agentic AI infrastructure. Former CTO & co-founder of a deep-tech energy storage startup (Prometheon Technologies) with 3 patents in proton battery systems.
+I'm a hands-on software and platform engineer with 9 years of experience building systems across backend services, Linux infrastructure, embedded platforms, developer tooling, and distributed systems.
 
-I specialize in designing and shipping production-grade components that span constraints: resource-efficient embedded libraries, high-performance Go systems, and secure, memory-aware agent runtimes. I care about first-principles architecture, clean abstractions, observability, and building things that actually work in the real world.
+Most of my work lives close to system boundaries: Go services, C/C++, Embedded Linux, infrastructure automation, databases, networking, control systems, and the infrastructure around AI agents and retrieval systems.
 
----
+Previously CTO and co-founder of Prometheon Technologies, where I remained hands-on across software, embedded systems, infrastructure, and technical R&D. I'm a named inventor on two international patent families in energy-storage technology.
 
-## Core Competencies
-
-**Embedded & IoT Systems**  
-C/C++, Embedded Linux, firmware development, networking stacks, OTA, sensor integration, reusable hardware abstraction libraries.
-
-**Platform & Systems Engineering**  
-Go (systems, CLIs, backends), Linux (self-hosting, desktop infra, reproducibility), CI/CD, developer tooling, distributed systems patterns.
-
-**Agentic AI Infrastructure**  
-MCP ecosystem, custom agent runtimes, tiered/persistent memory systems, capability-based security, context management, local-first & edge deployment.
-
-**Additional**  
-Performance optimization, security boundaries, modular library design, documentation & production practices (ADRs, codegen, testing, CI).
+More recently I've worked across robotics platform engineering, developer infrastructure, backend systems, AI tooling, and real-time embedded systems.
 
 ---
 
-## Experience Snapshot
+## Selected work
 
-- **Senior Platform Engineer** - Ownership of internal platform tooling, CI/CD, virtualization infrastructure, and cross-functional embedded firmware collaboration.
-- **CTO & Co-founder @ Prometheon Technologies** (2019-2025) - Led deep-tech energy storage development (proton batteries). Multiple patents (WO2023166219A1, WO2024184244A1). Full-stack hardware/software systems in a startup environment.
+### [mcp-edge-gateway](https://github.com/ZanzyTHEbar/mcp-edge-gateway)
+Go runtime and control plane for authenticated MCP entrypoints, tenant-aware routing, durable state, and external infrastructure reconciliation.
 
-Full details on [LinkedIn](https://www.linkedin.com/in/zacariahheim).
+### [mcp-memory-libsql-go](https://github.com/ZanzyTHEbar/mcp-memory-libsql-go)
+Embeddable Go memory and retrieval service with project isolation, metrics, and hybrid vector/text search.
 
----
+### [EasyNetworkManager](https://github.com/ZanzyTHEbar/EasyNetworkManager)
+C++ networking library for ESP32-class devices providing asynchronous REST APIs and reusable configuration workflows.
 
-## Let's Connect
-
-I'm always interested in thoughtful conversations about platform engineering, embedded systems, agentic infrastructure, or deep-tech hardware/software co-design.
-
-**Open to opportunities** in platform engineering, embedded/firmware systems, backend, or AI infrastructure roles (Portugal base with flexibility for the right fit).
-
-- Email: info@zacariahheim.com
-- X: [@ZacariahHeim](https://x.com/ZacariahHeim)
+### [faults-go](https://github.com/ZanzyTHEbar/faults-go)
+Structured application faults and error-handling primitives for Go.
 
 ---
 
-<div align="center">
-  <sub>Auto-Didact • Builder • Systems thinker • Evidence over hype</sub>
-</div>
+## Interests
+
+Backend systems · Linux · Distributed systems · Embedded systems · Databases · Developer infrastructure · Networking
